@@ -19,7 +19,7 @@
 # Blocked URL Check
 
 ### CHECK ALL AT ONCE
-- http://mcapi.ca/blockedservers/check/arkhamnetwork.org,mc.arkhamnetwork.org,play.arkhamnetwork.org,playmc.mx,primemc.org,play.primemc.org,muxcraft.eu,minetime.com,luckyprison.com,play.luckyprison.com,meepcraft.com,itsjerryandharry.com,play.itsjerryandharry.com,ecocitycraft.com,mc.ecocitycraft.com,play.ecocitycraft.com,eccgamers.com,mc.eccgamers.com,play.eccgamers.com,aemservers.net,mc.aemservers.net,play.aemservers.net,cosmicpvp.com,cosmicpvp.me,proxypipe.cosmicpvp.com,play.manacube.com,mc.minevast.com,yaymc.com,skyblocky.com,mc.skyblocky.com,gotpvp.com,play.gotpvp.com,pvp.desteria.com,mc.cathalcraft.com,play.lemoncloud.org
+- http://mcapi.ca/blockedservers/check/arkhamnetwork.org,mc.arkhamnetwork.org,play.arkhamnetwork.org,playmc.mx,primemc.org,play.primemc.org,muxcraft.eu,minetime.com,luckyprison.com,play.luckyprison.com,meepcraft.com,itsjerryandharry.com,play.itsjerryandharry.com,ecocitycraft.com,mc.ecocitycraft.com,play.ecocitycraft.com,eccgamers.com,mc.eccgamers.com,play.eccgamers.com,aemservers.net,mc.aemservers.net,play.aemservers.net,cosmicpvp.com,cosmicpvp.me,proxypipe.cosmicpvp.com,play.manacube.com,mc.minevast.com,yaymc.com,skyblocky.com,mc.skyblocky.com,gotpvp.com,play.gotpvp.com,pvp.desteria.com,mc.cathalcraft.com,sky.cathalcraft.com,play.lemoncloud.org
 
 ### ARKHAM NETWORK
 - http://mcapi.ca/blockedservers/check/arkhamnetwork.org,mc.arkhamnetwork.org,play.arkhamnetwork.org,playmc.mx
@@ -64,7 +64,7 @@
 - http://mcapi.ca/blockedservers/check/pvp.desteria.com
 
 ### CATHALCRAFT
-- http://mcapi.ca/blockedservers/check/mc.cathalcraft.com
+- http://mcapi.ca/blockedservers/check/mc.cathalcraft.com,sky.cathalcraft.com
 
 ### LEMONCLOUD
 - http://mcapi.ca/blockedservers/check/play.lemoncloud.org
