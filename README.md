@@ -15,7 +15,7 @@
 # Blocked URL Check
 
 ### CHECK ALL AT ONCE
-- http://mcapi.ca/blockedservers/check/arkhamnetwork.org,mc.arkhamnetwork.org,play.arkhamnetwork.org,playmc.mx,primemc.org,play.primemc.org,muxcraft.eu,pvp.muxcraft.eu,minetime.com,luckyprison.com,play.luckyprison.com,meepcraft.com,itsjerryandharry.com,play.itsjerryandharry.com,ecocitycraft.com,mc.ecocitycraft.com,play.ecocitycraft.com,eccgamers.com,mc.eccgamers.com,play.eccgamers.com,aemservers.net,mc.aemservers.net,play.aemservers.net,cosmicpvp.com,cosmicpvp.me,proxypipe.cosmicpvp.com,play.manacube.com,mc.minevast.com,yaymc.com,skyblocky.com,mc.skyblocky.com,gotpvp.com,play.gotpvp.com,pvp.desteria.com,mc.cathalcraft.com,sky.cathalcraft.com,play.lemoncloud.org
+- http://mcapi.ca/blockedservers/check/arkhamnetwork.org,mc.arkhamnetwork.org,play.arkhamnetwork.org,playmc.mx,primemc.org,play.primemc.org,muxcraft.eu,pvp.muxcraft.eu,minetime.com,luckyprison.com,play.luckyprison.com,meepcraft.com,itsjerryandharry.com,play.itsjerryandharry.com,ecocitycraft.com,mc.ecocitycraft.com,play.ecocitycraft.com,eccgamers.com,mc.eccgamers.com,play.eccgamers.com,aemservers.net,mc.aemservers.net,play.aemservers.net,cosmicpvp.com,cosmicpvp.me,proxypipe.cosmicpvp.com,yaymc.com,skyblocky.com,mc.skyblocky.com,gotpvp.com,play.gotpvp.com,pvp.desteria.com,mc.cathalcraft.com,sky.cathalcraft.com,play.lemoncloud.org,play.phanaticmc.com,play.phanaticmc.com,mcskyblock.com,play.mcskyblock.com,play.thearchon.net,pvp.thearchon.net
 
 ### ARKHAM NETWORK
 - http://mcapi.ca/blockedservers/check/arkhamnetwork.org,mc.arkhamnetwork.org,play.arkhamnetwork.org,playmc.mx
@@ -44,9 +44,6 @@
 ### COSMICPVP
 - http://mcapi.ca/blockedservers/check/cosmicpvp.com,cosmicpvp.me,proxypipe.cosmicpvp.com
 
-### MANACUBE / MINEVAST
-- http://mcapi.ca/blockedservers/check/play.manacube.com,mc.minevast.com
-
 ### YAYMC
 - http://mcapi.ca/blockedservers/check/yaymc.com
 
@@ -64,3 +61,9 @@
 
 ### LEMONCLOUD
 - http://mcapi.ca/blockedservers/check/play.lemoncloud.org
+
+### PHANATICMC
+- http://mcapi.ca/blockedservers/check/phanaticmc.com,play.phanaticmc.com,mcskyblock.com,play.mcskyblock.com
+
+### THEARCHON
+- http://mcapi.ca/blockedservers/check/play.thearchon.net,pvp.thearchon.net
