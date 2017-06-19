@@ -20,5 +20,5 @@ foreach my $a (@{ $jsonFileDecode->{servers} }) {
     my $res = $ua->request($req);
     my $content = $res->content;
     print $content."\n";
-    Time::HiRes::sleep(0.5);
+    Time::HiRes::sleep(0.2);
 }

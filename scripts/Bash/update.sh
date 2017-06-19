@@ -4,7 +4,7 @@ server=( arkhamnetwork.org mc.arkhamnetwork.org play.arkhamnetwork.org playmc.mx
 for i in "${server[@]}"
 do
     echo "-------------------------------------------------"
-    sleep 0.1
+    sleep 0.2
     curl -s http://mcapi.ca/blockedservers/check/$i
     printf "\n"
 done
