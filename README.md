@@ -70,3 +70,9 @@
 
 ### THEARCHON
 - http://mcapi.ca/blockedservers/check/play.thearchon.net,pvp.thearchon.net
+
+### PROJECT MAYHEM
+- http://mcapi.ca/blockedservers/check/play.pm-mc.com
+
+### FADECLOUD
+- http://mcapi.ca/blockedservers/check/fadecloud.com
