@@ -16,7 +16,7 @@
 
 Server Name | Check URL
 ------------|----------
-Arkham Network | [Check](http://mcapi.ca/blockedservers/check/arkhamnetwork.org,mc.arkhamnetwork.org,play.arkhamnetwork.org,playmc.mx)
+ArkhamNetwork | [Check](http://mcapi.ca/blockedservers/check/arkhamnetwork.org,mc.arkhamnetwork.org,play.arkhamnetwork.org,playmc.mx)
 CathalCraft | [Check](http://mcapi.ca/blockedservers/check/mc.cathalcraft.com,sky.cathalcraft.com)
 CosmicPVP | [Check](http://mcapi.ca/blockedservers/check/cosmicpvp.com,cosmicpvp.me,proxypipe.cosmicpvp.com)
 Desteria | [Check](http://mcapi.ca/blockedservers/check/pvp.desteria.com)
