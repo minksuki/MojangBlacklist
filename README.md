@@ -22,6 +22,7 @@ CosmicPVP | [Check](http://mcapi.ca/blockedservers/check/cosmicpvp.com,cosmicpvp
 Desteria | [Check](http://mcapi.ca/blockedservers/check/pvp.desteria.com)
 EcoCityCraft | [Check](http://mcapi.ca/blockedservers/check/ecocitycraft.com,mc.ecocitycraft.com,play.ecocitycraft.com,eccgamers.com,mc.eccgamers.com,play.eccgamers.com,aemservers.net,mc.aemservers.net,play.aemservers.net)
 FadeCloud | [Check](http://mcapi.ca/blockedservers/check/fadecloud.com)
+HorizonMC | [Check](http://mcapi.ca/blockedservers/check/play.invasionz.fr,play.horizonmc.fr)
 GotPVP | [Check](http://mcapi.ca/blockedservers/check/gotpvp.com,play.gotpvp.com)
 ItsJerryAndHarry | [Check](http://mcapi.ca/blockedservers/check/itsjerryandharry.com,play.itsjerryandharry.com)
 LemonCloud | [Check](http://mcapi.ca/blockedservers/check/play.lemoncloud.org)
