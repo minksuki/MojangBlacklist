@@ -24,6 +24,7 @@ EcoCityCraft | [Check](http://mcapi.ca/blockedservers/check/ecocitycraft.com,mc.
 FadeCloud | [Check](http://mcapi.ca/blockedservers/check/fadecloud.com)
 GotPVP | [Check](http://mcapi.ca/blockedservers/check/gotpvp.com,play.gotpvp.com)
 HorizonMC | [Check](http://mcapi.ca/blockedservers/check/play.invasionz.fr,play.horizonmc.fr)
+Imperia | [Check](http://mcapi.ca/blockedservers/check/mc-imperia.fr)
 ItsJerryAndHarry | [Check](http://mcapi.ca/blockedservers/check/itsjerryandharry.com,play.itsjerryandharry.com)
 LemonCloud | [Check](http://mcapi.ca/blockedservers/check/play.lemoncloud.org)
 LuckyPrison | [Check](http://mcapi.ca/blockedservers/check/luckyprison.com,play.luckyprison.com)
