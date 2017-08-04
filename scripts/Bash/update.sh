@@ -5,6 +5,6 @@ for i in "${server[@]}"
 do
     echo "-------------------------------------------------"
     sleep 0.2
-    curl -s http://mcapi.ca/blockedservers/check/$i
+    curl -s http://use.gameapis.net/mc/extra/blockedservers/check/$i
     printf "\n"
 done
