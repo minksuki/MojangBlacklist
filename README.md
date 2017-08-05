@@ -22,7 +22,7 @@ CosmicPVP | [Check](http://use.gameapis.net/mc/extra/blockedservers/check/cosmic
 Desteria | [Check](http://use.gameapis.net/mc/extra/blockedservers/check/pvp.desteria.com)
 EcoCityCraft | [Check](http://use.gameapis.net/mc/extra/blockedservers/check/ecocitycraft.com,mc.ecocitycraft.com,play.ecocitycraft.com,eccgamers.com,mc.eccgamers.com,play.eccgamers.com,aemservers.net,mc.aemservers.net,play.aemservers.net)
 FadeCloud | [Check](http://use.gameapis.net/mc/extra/blockedservers/check/fadecloud.com)
-Groupe ZK | [Check](http://use.gameapis.net/mc/extra/blockedservers/check/play.groupezk.fr,gzk.bmqt.fr)
+Groupe ZK | [Check](http://use.gameapis.net/mc/extra/blockedservers/check/play.groupezk.fr,gzk.bmqt.fr,play.groupezk.com)
 GotPVP | [Check](http://use.gameapis.net/mc/extra/blockedservers/check/gotpvp.com,play.gotpvp.com)
 HorizonMC | [Check](http://use.gameapis.net/mc/extra/blockedservers/check/play.invasionz.fr,play.horizonmc.fr)
 Imperia | [Check](http://use.gameapis.net/mc/extra/blockedservers/check/mc-imperia.fr)
