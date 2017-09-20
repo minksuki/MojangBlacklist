@@ -49,6 +49,7 @@ SkyblockNet | [Check](http://use.gameapis.net/mc/extra/blockedservers/check/skyb
 SkyblockXyz | [Check](http://use.gameapis.net/mc/extra/blockedservers/check/skyblock.xyz)
 Skyblocky | [Check](http://use.gameapis.net/mc/extra/blockedservers/check/skyblocky.com,mc.skyblocky.com)
 SkyWars | [Check](http://use.gameapis.net/mc/extra/blockedservers/check/skywars.com)
+SlabCraft | [Check](http://use.gameapis.net/mc/extra/blockedservers/check/mc.slabcraft.net)
 TheArchon | [Check](http://use.gameapis.net/mc/extra/blockedservers/check/play.thearchon.net,pvp.thearchon.net)
 TheReeve | [Check](http://use.gameapis.net/mc/extra/blockedservers/check/play.reevemc.com)
 YayMC | [Check](http://use.gameapis.net/mc/extra/blockedservers/check/yaymc.com)
