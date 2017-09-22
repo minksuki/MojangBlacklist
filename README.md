@@ -33,6 +33,7 @@ LemonCloud | [Check](http://use.gameapis.net/mc/extra/blockedservers/check/play.
 LuckyPrison | [Check](http://use.gameapis.net/mc/extra/blockedservers/check/luckyprison.com,play.luckyprison.com)
 ManaCube | [Check](http://use.gameapis.net/mc/extra/blockedservers/check/play.manacube.com)
 MeepCraft | [Check](http://use.gameapis.net/mc/extra/blockedservers/check/meepcraft.com)
+MineAqua | [Check](http://use.gameapis.net/mc/extra/blockedservers/check/mc.mineaquatm.net)
 Minebrawl | [Check](http://use.gameapis.net/mc/extra/blockedservers/check/minebrawl.org)
 Minesuperior | [Check](http://use.gameapis.net/mc/extra/blockedservers/check/play.minesuperior.com)
 Monman11 | [Check](http://use.gameapis.net/mc/extra/blockedservers/check/monman11.com)
