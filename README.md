@@ -21,6 +21,7 @@ BedCraft | [Check](http://use.gameapis.net/mc/extra/blockedservers/check/ftb.bed
 CathalCraft | [Check](http://use.gameapis.net/mc/extra/blockedservers/check/mc.cathalcraft.com,sky.cathalcraft.com)
 Chaoticprison | [Check](http://use.gameapis.net/mc/extra/blockedservers/check/chaoticprison.org)
 CosmicPVP | [Check](http://use.gameapis.net/mc/extra/blockedservers/check/cosmicpvp.com,proxypipe.cosmicpvp.com)
+DesiredCraft | [Check](http://use.gameapis.net/mc/extra/blockedservers/check/mc.desiredcraft.net)
 Desteria | [Check](http://use.gameapis.net/mc/extra/blockedservers/check/pvp.desteria.com)
 EcoCityCraft | [Check](http://use.gameapis.net/mc/extra/blockedservers/check/ecocitycraft.com,mc.ecocitycraft.com,play.ecocitycraft.com,eccgamers.com,mc.eccgamers.com,play.eccgamers.com,aemservers.net,mc.aemservers.net,play.aemservers.net)
 FadeCloud | [Check](http://use.gameapis.net/mc/extra/blockedservers/check/fadecloud.com)
