@@ -189,7 +189,7 @@ d112e40c860cbad4bdf7526e56597d08fd0b83d9:wadn374.ddns.net
 cc6121c13921083cc6371968f9a3b580946fc9ec:*.reevemc.com
 5222a42aab24fd924911963664c3e831aef1d636:thereeve.ddns.net
 d54db115d781524c35508c1bbbea9fef38a05cd8:*.sarmacraft.info
-7b9b1fcbdb924f0f0d5ef36cf03fb6c54707c359:
+7b9b1fcbdb924f0f0d5ef36cf03fb6c54707c359:dc-9d3236cfffa3.sarmacraft.info
 307c4172ba1eb029e1187f747b67f9512a39dccd:*.minesuperior.com
 43fa7720f5a3f1d57ad5ac3eaca8eb26ce8811f2:*.brandongeta.life
 3a3b3c992442964e197cd29dc80a9c48c09d5d53:*.purpleprison.com
@@ -775,6 +775,7 @@ f2cdf3b7159d65d5ea1e36b378f0b17338b15a4e:gdgjwgw4lwzu8dhaou.ddnsking.com
 0c5f61a7cc8ea780afa113478c635b9a7fc80db1:oz4zggdyuymc5dnkg6.ddnsking.com
 bbf5018ba50d28d76ffa96b0a194cc76a33976f8:*.pvp-warcraft.eu
 1954f25858bf8cb8f392224c92f7f6f5ef59b489:149.202.87.167
+ecafe92c6d27201f0acb08b7ef963ac998378d96:*.desiredcraft.net
 cc8e1ae93571d144bf4b37369cb8466093d6db5a:*.thearchon.net
 482494bae4c0ddf890f8c61b38ff36bd6dfa5859:234234234234.redirectme.net
 3d36f898dd71bbffd58f950f772c5ae023e7f0d2:24234234234asdd.redirectme.net
