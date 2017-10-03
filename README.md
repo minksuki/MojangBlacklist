@@ -28,6 +28,7 @@ EcoCityCraft | [Check](http://use.gameapis.net/mc/extra/blockedservers/check/eco
 FadeCloud | [Check](http://use.gameapis.net/mc/extra/blockedservers/check/fadecloud.com)
 GroupeZK | [Check](http://use.gameapis.net/mc/extra/blockedservers/check/play.groupezk.fr,gzk.bmqt.fr,play.groupezk.com)
 GotPVP | [Check](http://use.gameapis.net/mc/extra/blockedservers/check/gotpvp.com,play.gotpvp.com)
+GuildCraft | [Check](http://use.gameapis.net/mc/extra/blockedservers/check/play.guildcraft.org)
 HorizonMC | [Check](http://use.gameapis.net/mc/extra/blockedservers/check/play.invasionz.fr,play.horizonmc.fr)
 Imperia | [Check](http://use.gameapis.net/mc/extra/blockedservers/check/mc-imperia.fr)
 ItsJerryAndHarry | [Check](http://use.gameapis.net/mc/extra/blockedservers/check/itsjerryandharry.com,play.itsjerryandharry.com)

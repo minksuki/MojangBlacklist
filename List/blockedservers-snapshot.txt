@@ -1001,6 +1001,7 @@ e3985eb936d66c9b07aa72c15358f92965b1194e:*.insanenetwork.org
 b140bec2347bfbe6dcae44aa876b9ba5fe66505b:*.phoenixnexus.net
 c005ad34245a8f2105658da2d6d6e8545ef0f0de:*.skygod.us
 11a2c115510bfa6cb56bbd18a7259a4420498fd5:*.slaughterhousepvp.com
+a5944b9707fdb2cc95ed4ef188cf5f3151ac0525:*.guildcraft.org
 936dbace9de52d7ba779b754a734e690c713bd49:*.cosmicpvp.com
 ad22888def498092829b06ff6183b075de48d829:1mmxy6cf.ddns.net
 f1a585fcfe4611154014be0e0701aa94f49947a3:4kroos28.ddns.net
