@@ -917,6 +917,7 @@ f959a16f44883c6cd213bb2a774a45a498df1b3c:opanarchy1.ddns.net
 bbbfb5016f306fd2f2a8690d53b7443b130a4317:opanarchy4.ddns.net
 8ccca501e2767aeca12bc13eee1963588a39d26f:opanarchy5.ddns.net
 3658009e555081474825792ec60889b2481f901c:prisonanarchy.ddns.net
+c6e42513eabd52ef93e3cc119467f141d7500a1f:*.arcadianmc.com
 dc8a6ffae80bc39c121fb21a455e903bf0eb2b7f:*.mineverse.com
 a8f4b635c3a5ed567c50e427a81d7c2df2f9d7eb:*.mineverse.net
 cb0dc6c612d62c53fb074e3eb28b3279547cf740:*.mineverse.org

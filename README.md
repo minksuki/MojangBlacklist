@@ -16,6 +16,7 @@
 
 Server Name | Check URL
 ------------|----------
+ArcadianMC | [Check](http://use.gameapis.net/mc/extra/blockedservers/check/play.arcadianmc.com)
 ArkhamNetwork | [Check](http://use.gameapis.net/mc/extra/blockedservers/check/arkhamnetwork.org,mc.arkhamnetwork.org,play.arkhamnetwork.org,playmc.mx)
 BedCraft | [Check](http://use.gameapis.net/mc/extra/blockedservers/check/ftb.bedcraft.eu)
 CathalCraft | [Check](http://use.gameapis.net/mc/extra/blockedservers/check/mc.cathalcraft.com,sky.cathalcraft.com)
