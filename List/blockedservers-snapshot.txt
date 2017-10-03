@@ -195,7 +195,6 @@ d112e40c860cbad4bdf7526e56597d08fd0b83d9:wadn374.ddns.net
 cc6121c13921083cc6371968f9a3b580946fc9ec:*.reevemc.com
 14e7263068c9f3454514b55edf736bafc7b60137:rmc1.allowed.org
 5222a42aab24fd924911963664c3e831aef1d636:thereeve.ddns.net
-5da30bc364f6670a3291710ae5f1d32bd46016fd:*.silocraft.com
 d54db115d781524c35508c1bbbea9fef38a05cd8:*.sarmacraft.info
 7b9b1fcbdb924f0f0d5ef36cf03fb6c54707c359:dc-9d3236cfffa3.sarmacraft.info
 f05ff11b25bbdb642081950711f19cd82354a02c:*.minevast.com

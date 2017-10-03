@@ -50,7 +50,6 @@ PVPWarcraft | [Check](http://use.gameapis.net/mc/extra/blockedservers/check/mc.p
 SarmaCraft | [Check](http://use.gameapis.net/mc/extra/blockedservers/check/mc.sarmacraft.info)
 SB-Hub | [Check](http://use.gameapis.net/mc/extra/blockedservers/check/sb-hub.com,planetsb.net,fadedsb.com,shadowsb.com,survivalsb.com)
 Shaded | [Check](http://use.gameapis.net/mc/extra/blockedservers/check/play.shaded.gg)
-Silocraft | [Check](http://use.gameapis.net/mc/extra/blockedservers/check/mc.silocraft.com)
 SkyblockNet | [Check](http://use.gameapis.net/mc/extra/blockedservers/check/skyblock.net,skyblock.org)
 SkyblockXyz | [Check](http://use.gameapis.net/mc/extra/blockedservers/check/skyblock.xyz)
 Skyblocky | [Check](http://use.gameapis.net/mc/extra/blockedservers/check/skyblocky.com,mc.skyblocky.com)
