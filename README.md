@@ -49,7 +49,6 @@ PhanaticMC | [Check](http://use.gameapis.net/mc/extra/blockedservers/check/phana
 PrimeMC | [Check](http://use.gameapis.net/mc/extra/blockedservers/check/primemc.org,play.primemc.org)
 Purpleprison | [Check](http://use.gameapis.net/mc/extra/blockedservers/check/purpleprison.net)
 PVPWarcraft | [Check](http://use.gameapis.net/mc/extra/blockedservers/check/mc.pvp-warcraft.eu)
-SafeSurvival | [Check](http://use.gameapis.net/mc/extra/blockedservers/check/mc.safesurvival.net)
 SarmaCraft | [Check](http://use.gameapis.net/mc/extra/blockedservers/check/mc.sarmacraft.info)
 SB-Hub | [Check](http://use.gameapis.net/mc/extra/blockedservers/check/sb-hub.com,planetsb.net,fadedsb.com,shadowsb.com,survivalsb.com)
 Shaded | [Check](http://use.gameapis.net/mc/extra/blockedservers/check/play.shaded.gg)

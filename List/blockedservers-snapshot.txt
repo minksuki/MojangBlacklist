@@ -65,6 +65,7 @@ f8c4ac5a881c9ca276c2069084b1a9dfd784146f:047076ff9e808fec.ddns.net
 a914b9528f3e7e783bb97d1e99ee0dfc098d5a0a:06ebd438e44c6f62.ddns.net
 9f0b2315b78ebf63bbe4a392c2e8d60a69099ffc:085d2eafabeefc76.ddns.net
 fd631d74b4718aaf4e17beb29e4ef3304847c8db:0c129c58498b2c09.ddns.net
+a4f3de87daadf5a68a35cc281f67b41483953217:0d0fc8eb73c4dedc.ddns.net
 80945ec7897b4a56c759cf1f07c8037f133a8d1b:0d434717150619c5.ddns.net
 19b2cb557349ab3b570f84a7d42225edcb11d934:0df9fd853aef8a97.ddns.net
 25c7d1d27638e2109c33ab9471fb6fe03310ad2a:13f92aaa713ba7e4.ddns.net
@@ -123,6 +124,7 @@ c6b81bae41964635312c37c4ae73aea7c4352541:7139ec023b2b038c.ddns.net
 c7e87eaf524d47f996c031537ecdff3a58fbee9f:7345525c836451fc.ddns.net
 d5e6edb6d676c1eefc448545581e404ea20cbe06:75847ae53c31c8b3.ddns.net
 e9edabb2122501d7f4224e7e398f9df9bd34c751:763073e124f7c72b.ddns.net
+10876f5f51cd374e7d8c2edd941e926e692b4c95:770372f2c442e4e3.ddns.net
 64d5ff6b9f0b17d4e9921bb636fc262c25ba3cff:776ded9fb0683cee.ddns.net
 9f4131c84329e7e6091f2ee810df82eec2825ea8:791oun13.ddns.net
 cbbfec02bbc601ff4b2682c8620fe97c14ed99db:7bfc1575e97533b6.ddns.net
@@ -317,6 +319,7 @@ b3ff3004bf0d84cd88ea887eeb61dc7a9020c16c:*.meepcraft.site
 1c14d439d116c12f97372f078ad1ca7f12688ed9:*.meeplabs.us
 6530b21ba66d88b7c7b4eb28093ead0375dec138:*.meeplife.accountant
 f631a797fb2be8e2996799a2d7d7c567564d0b9c:*.meeplife.bid
+20a095f7bf9e049cc4609952d61768f2bb004b05:*.meeplife.cricket
 9eb239d5dafc5a9917346a82c83423958526870a:*.meeplife.date
 c3f3fd3197002cecf5c995c08e5efdf2945492d6:*.meeplife.download
 d6af5c7f43f7acb5124652a9a4d1326c58270ebd:*.meeplife.loan
@@ -343,6 +346,7 @@ b216cb229d67e5462b559cf24912e2c6cba3dd07:*.vibez.space
 f728c2892b407ad03feb3672f77ecf2963d89562:*.vibez.website
 824cb827ba7cf74222f1d546aadfe0ba1e63c14f:*.360spinning.com
 4927ef726eba840a057a0ff1bcc30b9543c27dcf:*.muxcraft.eu
+7c5057c5ac04d6c0ca4bba5eb93090c798b1b3ef:*.muxcrafteula.party
 f32fae09a02b3b0a4b433cb43d4a99d1332db6bf:*.muxcraftgold.party
 7d7194b9806ac072727e77c45f4a5d055913b9d0:*.muxcraftgold.win
 799a1a9cd080ed269ae8c55d286c8f955df3d425:blockgamemillionaire.ddns.net
@@ -491,6 +495,7 @@ c53e2af41b39bc1b9666e28ec8d519f1617d03b9:*.youcantstopme.webcam
 7ca93fe2ccc734266ecf692fe101db956a3d55af:34120d21f19dd396.ddns.net
 6921d938ced993b03e3ee4597cbe0c97534e7cf3:37pw0bd3pn8wh5x.t5iqoovs.strangled.net
 e20fbd263104be6298d635c9d6d77a5ac36c9c20:37pw0bd3pn8wh5z.t5iqoovs.strangled.net
+41643b990af95124eb834af8ac1e7c5c7d845b28:3zl5gcmdvmu0f6j.ddns.net
 62faa618c7fc915bc697b078477d8286431310b9:44cd80f713bf5700.ddns.net
 7e1ef4e91d8ae53c0e7f1a777d3044df2e95edee:50b6b5814c497e62.ddns.net
 1c83527885060714380e4c8bb44e0ee535d0f764:6701bcacefcd3a3e.ddns.net
@@ -604,6 +609,7 @@ af3382bab7ef8ce5be524691718c2cb7fe1f77e0:analsexnohomo8.ddns.net
 365550400a0f02876b67958ccacbb51de6a20901:analsexnohomo9.ddns.net
 27d4eefcd7792345a5a7c63b935fd706238fa025:arbok.servequake.com
 c5098ad9f7c70805a2c98e5f9bf6c4d5e6d0acfa:asdas984d9as4da.ddns.net
+41f72ce17c916eeb569d9f9f7cc00fc204e6a5ea:awsd951wa9d48sad.ddns.net
 b8c876f599dcf5162911bba2d543ccbd23d18ae5:brandonisagainst.health-carereform.com
 48f04e89d20b15de115503f22fedfe2cb2d1ab12:brandonisan.unusualperson.com
 9a9ae8e9d0b6f3bf54c266dcd1e4ec034e13f714:brandonwatchesporn.onthewifi.com
@@ -842,7 +848,6 @@ b3bed2ae6a181e8957f945de1378b364561032ae:tvupunfx.ddns.net
 0b40a3486570c73d52733834ec7dec7a8fd6d8a4:vvyrxbca.ddns.net
 31d21dd707b44da183dd99d8489fbb53f8174a58:x2fz8q6kf4cyinuw.ddns.net
 72af4e64204930a2164f0615701107f1b044fdec:xkzkvos9.ddns.net
-d5fbf3f070aa9074ef7530475a6fdcac245f9dc7:*.safesurvival.net
 19496af28f798311b19fbc4710ddd04117ed070f:*.shaded.gg
 f2cdf3b7159d65d5ea1e36b378f0b17338b15a4e:gdgjwgw4lwzu8dhaou.ddnsking.com
 0c5f61a7cc8ea780afa113478c635b9a7fc80db1:oz4zggdyuymc5dnkg6.ddnsking.com
@@ -1036,6 +1041,7 @@ aeb8ee745a2ca9c84124d12a0ede672105b564db:*.luckyprisons7.club
 2586e3c55b98947a8afc47294323edf4c823446e:*.mojangno.info
 d4494910ebe84cb0f1318765b4b559ccbac0d200:*.mojangnooo.info
 a0486c27111819cd88d874da0135bbaccefd6de5:*.mojangstop.info
+51dbdd8107460165415f45a94618b5a6a464d487:*.negativeoption13.club
 87edbf477d90bf49bfbc4a4533e486cc4a979add:*.negativeoptionbilling.club
 13a5bb3bf798e034ee30b637479acb4bebc270d5:*.negativeoptionbilling2.club
 7414d6bd0d54521663180f66596a7aa17a32fe17:*.negativeoptionbilling27.club
@@ -1060,6 +1066,7 @@ e103d60722b5eebb525f99f20bcd2eae27e7324d:*.prisonlucky.club
 c645d6c6430db3069abd291ec13afebdb320714b:*.mineaqua.es
 c78697e385bfa58d6bd2a013f543cdfbdc297c4f:*.mineaqua.net
 7e41aa85d67b8854f11cb1ac042962a7aeb50f82:*.mineaquatm.net
+3f0f47e01f799e40b359aea00fc7b14a72c7b47b:fckeula1.ddns.net
 e1306011e59fb3198df1042e71fd46adf48596d1:*.h1horizonmc.fr
 7e0ebb720fcf5f6c6c2f04f7422d621b6c8e4d94:*.horizonmc.fr
 227d18c2d31450ced40234b04a24820e1c880aa2:*.invasionz.fr
