@@ -44,7 +44,7 @@ MeepCraft | [Check](http://use.gameapis.net/mc/extra/blockedservers/check/meepcr
 MineAqua | [Check](http://use.gameapis.net/mc/extra/blockedservers/check/mc.mineaquatm.net)
 Minebrawl | [Check](http://use.gameapis.net/mc/extra/blockedservers/check/minebrawl.org)
 MinecartMC | [Check](http://use.gameapis.net/mc/extra/blockedservers/check/minecartmc.com,play.theminecart.com,server.theminecart.com)
-MinecraftRomania | [Check](http://use.gameapis.net/mc/extra/blockedservers/check/play.minecraft-romania.ro)
+MinecraftRomania | [Check](http://use.gameapis.net/mc/extra/blockedservers/check/play.minecraft-romania.ro,original.minecraft-romania.ro)
 Minesuperior | [Check](http://use.gameapis.net/mc/extra/blockedservers/check/play.minesuperior.com)
 Minevast | [Check](http://use.gameapis.net/mc/extra/blockedservers/check/play.minevast.com,mc.minevast.com)
 Mineverse | [Check](http://use.gameapis.net/mc/extra/blockedservers/check/mineverse.com,mineverse.net,mineverse.org)
