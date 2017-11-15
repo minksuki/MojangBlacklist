@@ -16,6 +16,7 @@
 
 Server Name | Check URL
 ------------|----------
+AppleCraft | [Check](http://use.gameapis.net/mc/extra/blockedservers/check/play.applecraft.org)
 ArcadianMC | [Check](http://use.gameapis.net/mc/extra/blockedservers/check/play.arcadianmc.com)
 ArkhamNetwork | [Check](http://use.gameapis.net/mc/extra/blockedservers/check/arkhamnetwork.org,mc.arkhamnetwork.org,play.arkhamnetwork.org,playmc.mx)
 BedCraft | [Check](http://use.gameapis.net/mc/extra/blockedservers/check/ftb.bedcraft.eu)
@@ -28,6 +29,7 @@ DesiredCraft | [Check](http://use.gameapis.net/mc/extra/blockedservers/check/mc.
 Desteria | [Check](http://use.gameapis.net/mc/extra/blockedservers/check/pvp.desteria.com)
 EcoCityCraft | [Check](http://use.gameapis.net/mc/extra/blockedservers/check/ecocitycraft.com,mc.ecocitycraft.com,play.ecocitycraft.com,eccgamers.com,mc.eccgamers.com,play.eccgamers.com,aemservers.net,mc.aemservers.net,play.aemservers.net)
 FadeCloud | [Check](http://use.gameapis.net/mc/extra/blockedservers/check/fadecloud.com)
+ForuxPvP | [Check](http://use.gameapis.net/mc/extra/blockedservers/check/play.foruxpvp.com)
 GroupeZK | [Check](http://use.gameapis.net/mc/extra/blockedservers/check/play.groupezk.fr,gzk.bmqt.fr,play.groupezk.com)
 GotPVP | [Check](http://use.gameapis.net/mc/extra/blockedservers/check/gotpvp.com,play.gotpvp.com)
 GTAMC | [Check](http://use.gameapis.net/mc/extra/blockedservers/check/play.gtamc.net)
