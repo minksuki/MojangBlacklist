@@ -50,6 +50,7 @@ Minevast | [Check](http://use.gameapis.net/mc/extra/blockedservers/check/play.mi
 Mineverse | [Check](http://use.gameapis.net/mc/extra/blockedservers/check/mineverse.com,mineverse.net,mineverse.org)
 Monman11 | [Check](http://use.gameapis.net/mc/extra/blockedservers/check/monman11.com)
 MuxCraft | [Check](http://use.gameapis.net/mc/extra/blockedservers/check/muxcraft.eu,pvp.muxcraft.eu)
+MythCraftPVP | [Check](http://use.gameapis.net/mc/extra/blockedservers/check/play.mythcraftpvp.com)
 OPAnarchy | [Check](http://use.gameapis.net/mc/extra/blockedservers/check/opanarchy.com)
 OPMines | [Check](http://use.gameapis.net/mc/extra/blockedservers/check/opmines.net) 
 PhanaticMC | [Check](http://use.gameapis.net/mc/extra/blockedservers/check/phanaticmc.com,play.phanaticmc.com,mcskyblock.com,play.mcskyblock.com)
