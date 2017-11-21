@@ -1172,6 +1172,7 @@ ad9757f488816da5aa51935605cb60e914361972:mvvvmv.ddns.net
 dd94c223c0a5f331b7e44e78241c1c5cd00cebd8:mwmwmvmwmwvmwmwwwwmmwwww.ddns.net
 f852d47b95ec0ff5f5e08c274f3999819967a905:shkfsaefvbnksww.ddns.net
 7191ae921ee06559dc0651a678e6040cdb51e714:*.mythcraftpvp.com
+eaf854f8e0b902ed4968bc2eaff51c87476c850f:mcminecraft1.ddns.net
 44cf0aa40a3df93292686aec852d6b880c188405:*.opmines.net
 0492438eedca6ade45142de1b4e9843fa29c168e:1opm.ddns.net
 8877f777c9214fe8a4a5544dbeb6eec19c0011e2:2opm.ddns.net
@@ -1194,6 +1195,7 @@ e260e23cab6a1d2419f66e9927607782701f8644:opmines2.ddns.net
 fe6342b43c7486a026b6ac4fab83a95db5e4edfb:opmines3.ddns.net
 667e243f8e51542f65cfae572dba3d3fc74c8dc3:opmons.ddns.net
 d736c6f26a59fc33dce5d251cf2cae266661dc1d:*.foruxpvp.com
+28962d5b41a19076ef899542d5f6d7d2940eb65f:*.mc-srv.com
 03ca2750880c651acdfd1e552e6e4196876147eb:*.cathalcraft.com
 c728cda6c868b49283cdae5eeb5b573031c538d0:111222333444.ddns.net
 955b64d1c942240deea687029fb362e27bb449cd:ccbeotch.serveminecraft.net
