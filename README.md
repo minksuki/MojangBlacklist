@@ -35,6 +35,7 @@ GotPVP | [Check](http://use.gameapis.net/mc/extra/blockedservers/check/gotpvp.co
 GTAMC | [Check](http://use.gameapis.net/mc/extra/blockedservers/check/play.gtamc.net)
 GuildCraft | [Check](http://use.gameapis.net/mc/extra/blockedservers/check/play.guildcraft.org)
 HorizonMC | [Check](http://use.gameapis.net/mc/extra/blockedservers/check/play.invasionz.fr,play.horizonmc.fr)
+Icarya | [Check](http://use.gameapis.net/mc/extra/blockedservers/check/play.icarya.fr)
 Imperia | [Check](http://use.gameapis.net/mc/extra/blockedservers/check/mc-imperia.fr)
 ItsJerryAndHarry | [Check](http://use.gameapis.net/mc/extra/blockedservers/check/itsjerryandharry.com,play.itsjerryandharry.com)
 LemonCloud | [Check](http://use.gameapis.net/mc/extra/blockedservers/check/play.lemoncloud.org)
