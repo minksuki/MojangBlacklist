@@ -6,6 +6,7 @@
 - Blacklist twitter notifier via: https://twitter.com/blacklistnotify
 - Blacklist searcher via: https://blocklist.tcpr.ca/
 - Client Discord: https://squidhq.com/discord/
+- SRV Rotator: https://github.com/Yive/RotateSRV
 
 # Mojang Blacklist SRV Bypass Guides
 - [Cloudflare](https://github.com/EcoCityCraft/MojangBlacklist/blob/master/SRV-Guides/CLOUDFLARE.md)

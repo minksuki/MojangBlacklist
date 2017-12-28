@@ -6,6 +6,7 @@
 - Blacklist twitter notifier via: https://twitter.com/blacklistnotify
 - Blacklist searcher via: https://blocklist.tcpr.ca/
 - Client Discord: https://squidhq.com/discord/
+- SRV Rotator: https://github.com/Yive/RotateSRV
 
 ### How to setup SRV records with Cloudflare
 1. Login to your Cloudflare account (make sure your domain's name servers are set to use Cloudflare).
