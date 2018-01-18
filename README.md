@@ -24,6 +24,7 @@ BedCraft | [Check](http://use.gameapis.net/mc/extra/blockedservers/check/ftb.bed
 CandyCraft | [Check](http://use.gameapis.net/mc/extra/blockedservers/check/mc.candycraft.org,candycraft.org,play.candycraft.org)
 CathalCraft | [Check](http://use.gameapis.net/mc/extra/blockedservers/check/mc.cathalcraft.com,sky.cathalcraft.com)
 Chaoticprison | [Check](http://use.gameapis.net/mc/extra/blockedservers/check/chaoticprison.org)
+Craft of Clans | [Check](http://use.gameapis.net/mc/extra/blockedservers/check/play.craftofclans.net)
 CosmicPrisons | [Check](http://use.gameapis.net/mc/extra/blockedservers/check/cosmicprisons.com)
 CosmicPVP | [Check](http://use.gameapis.net/mc/extra/blockedservers/check/cosmicpvp.com,proxypipe.cosmicpvp.com,play.cosmicpvp.com)
 CraftLandiaBR | [Check](http://use.gameapis.net/mc/extra/blockedservers/check/jogar.craftlandia.com.br)
