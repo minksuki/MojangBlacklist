@@ -10,8 +10,6 @@
 
 # Mojang Blacklist SRV Bypass Guides
 - [Cloudflare](https://github.com/EcoCityCraft/MojangBlacklist/blob/master/SRV-Guides/CLOUDFLARE.md)
-- [NameCheap](https://github.com/EcoCityCraft/MojangBlacklist/blob/master/SRV-Guides/NAMECHEAP.md)
-- [No-IP](https://github.com/EcoCityCraft/MojangBlacklist/blob/master/SRV-Guides/NOIP.md)
 
 # Blocked URL Check
 
