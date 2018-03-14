@@ -408,6 +408,7 @@ d65cbff0afbe603ffd3eca254d31dc21338fc1f8:tpbzhws7p3.ddns.net
 55f424d7a885c79a9c508babb971a26c6a9e08df:xjv7k6ktdx.ddns.net
 e122b9c084635b4ca6336f1e1248229d5fd9a5c0:ywp584kkcd.ddns.net
 3d98bf0ca6eafc49dced534c8905efa229898f64:zfbbvu6z68.ddns.net
+eccdf20a6e1f2dfb0bb195b63d75ed5bf073b4c0:*.wyvernnetwork.com
 43fa7720f5a3f1d57ad5ac3eaca8eb26ce8811f2:*.brandongeta.life
 a562f0d3033e07b7407296922a10772047007dda:*.mysticblocks.com
 3a3b3c992442964e197cd29dc80a9c48c09d5d53:*.purpleprison.com
@@ -614,6 +615,7 @@ b8159a5ee893e241bfccb64ea502e7589828f6bb:*.keneti.com
 93bfca51ea31620fdc93b6f50593057d452a9686:1mzijnr9ib.ddns.net
 e22b9aef191b379f267dfee1ab5aeddb167cd6ac:42qwsrz2pg.ddns.net
 62c566a497afdc67174a851bd1e11f178fe0d0da:9ichs8f122.ddns.net
+21083038c46391238432aaf3761b19af4c4a0715:*.cosmicmc.com
 824cb827ba7cf74222f1d546aadfe0ba1e63c14f:*.360spinning.com
 44d2a11e73b9943add4d9acc5f043ba499edd1d8:*.mojangbrandonhatkeinleben.party
 67cc9d3293177fcf1f631537d9a965eb340b5d68:*.mojangnacktaufder.webcam
@@ -712,6 +714,7 @@ a77e8c1c55fc26036713435dfe43ba30b2c9548b:icarya7.ddns.net
 b2e07f83706f0786e75c47a145d0bcdb4c80d4b0:icarya8.ddns.net
 f21e3598af70d2f45f37719fc51e4b4d1b829d8b:icarya9.ddns.net
 6a450b30ce600b5b7094cc51e19e3ffe9b857fe2:ns3029576.ip-149-202-223.eu
+05844460b5f3725d2f118f9a056e8e3331e7ef83:*.keralis.net
 1671d94df7609cd19123730547f2f21d7236a0e5:*.originmc.org
 32d8eaef37e81f607f20a65ae1ab461f382c2e34:*.desteria.com
 c09abafa4dccdd2f8f96e47e4fba6387a607310f:*.p2w.rocks
@@ -1296,6 +1299,8 @@ f2cdf3b7159d65d5ea1e36b378f0b17338b15a4e:gdgjwgw4lwzu8dhaou.ddnsking.com
 0c5f61a7cc8ea780afa113478c635b9a7fc80db1:oz4zggdyuymc5dnkg6.ddnsking.com
 bbf5018ba50d28d76ffa96b0a194cc76a33976f8:*.pvp-warcraft.eu
 1954f25858bf8cb8f392224c92f7f6f5ef59b489:149.202.87.167
+c1fa1cc53a33fe17f998053757a5b0c708dea9ed:*.mineagepvp.com
+c4eaad67dffa478fcb8f72bf02caaf30d5f6943d:*.arcane.cc
 29b53a59766f0a58ad0dd33cc7d093faddf4c60c:*.paradise-mc.net
 6c939fbb268bbbeaa7d3618016d8588b7cf0c532:gotpvpnet.freedynamicdns.org
 619c6492edebe0486dda55adcdf8d1fed1c37265:ipmanager.blogsyte.com
@@ -1771,6 +1776,7 @@ e103d60722b5eebb525f99f20bcd2eae27e7324d:*.prisonlucky.club
 4a1670ec0ae203f984cbf2e2a9ad0088e8e0120d:*.recurringbilling7.info
 476076bc87163201da7fa8ede199f551d81fe18a:*.thugcrewmojang.club
 1a5f060274ffda57f6345480a14b41302e5ed16c:*.thugscrib.com
+e0fbf059ed814cf73d2d0c69a43e032681b0c9f6:*.kaoshkraft.net
 47c04d048804712751f87d100711a5187d858872:*.saicopvp.com
 408e2f63273360805b972422faffb67b2fb35d48:33ksgz17hnugw7d.ddns.net
 24ae219a22bdb9b0d521744e53c97174917a14c4:d3qwf662849t73c.ddns.net
@@ -1908,6 +1914,8 @@ f478588c03965938f210bb25a35ae1d01dedfd0b:ttarnvsrtwuh.ddns.net
 eb02bc77dc04599f284189bf6d8a9af57f019733:txlnssaw.ddns.net
 71293a108014853ef9a2eced8a1b43c34f1d0527:yn0raomzzdtyslek.ddns.net
 8c2ff39bc9a6bd86b00ca5ccdfdd0a473a1512dd:yoh3fd5f1rqytr55.ddns.net
+74501dbd841438b2615756737229d0001777ec6c:*.jartexnetwork.com
+4038cc9562ad5459bc9a816847641dd37f777c7f:*.jartexrenegod.party
 179dd56caebc51d78aab3eef786acc19262250af:*.applecraft.org
 aad62449215ceb6a3baacbfa75c9b4619b2cc371:amiuyzchzdnpmvxpdmx.ddns.net
 d4d52cc46c6b25e868fd9a6d6a932aba751f71b4:bajacantina.ddns.net
@@ -2069,5 +2077,6 @@ ebdcb5af8cb32310ce4fe5b18ced045516c3915e:f7dcaed622cf2b2f.ddns.net
 701a630797007604ad2a92b20f7e2bc57579addd:f9466a1e7fe69e8e.ddns.net
 e4f29cde50787dff21474f6cd1492fc357ea8797:fb884af9c52e495f.ddns.net
 1ba19318fc696461b027e5c6537f8cfb5aff8dff:febb540d136fbf16.ddns.net
+e16f4855fae779836dc0971fd09c7a87130fd32d:*.thronecraft.org
 f56238355bf8aa9f00b53bdc0989cc5f9aab0884:*.minecraft-romania.ro
 b72ef96961fd1cb52a4d98b790a82ef27f12f4e3:*.bedcraft.eu
