@@ -46,7 +46,6 @@ GuildCraft | [Check](http://use.gameapis.net/mc/extra/blockedservers/check/play.
 Icarya | [Check](http://use.gameapis.net/mc/extra/blockedservers/check/play.icarya.fr,icarya.fr)
 ItsJerryAndHarry | [Check](http://use.gameapis.net/mc/extra/blockedservers/check/itsjerryandharry.com,play.itsjerryandharry.com,mc.itsjerryandharry.com)
 JartexNetwork | [Check](http://use.gameapis.net/mc/extra/blockedservers/check/play.jartexnetwork.com,mc.jartexnetwork.com,jartexnetwork.com)
-KaoshKraft | [Check](http://use.gameapis.net/mc/extra/blockedservers/check/mc.kaoshkraft.net)
 Keneti | [Check](http://use.gameapis.net/mc/extra/blockedservers/check/play.keneti.com)
 World of Keralis | [Check](http://use.gameapis.net/mc/extra/blockedservers/check/play.keralis.net)
 LemonCloud | [Check](http://use.gameapis.net/mc/extra/blockedservers/check/lemoncloud.org,play.lemoncloud.org)
