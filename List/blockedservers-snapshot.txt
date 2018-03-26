@@ -1,3 +1,4 @@
+26b07aaec4373bec32872fdb416959fa6d33a58a:*.twerion.net
 72fd29f430c91c583bb7216fe673191dc25a7e18:*.minefc.com
 e38e82a54b47c7c5394670bb34b3aa941219959b:eulafc01.hopto.org
 d1bab7fcb1d44a0ad1084fb201006d79d05ae6e7:eulafc02.hopto.org

@@ -100,6 +100,7 @@ TheArchon | [Check](http://use.gameapis.net/mc/extra/blockedservers/check/play.t
 TheReeve | [Check](http://use.gameapis.net/mc/extra/blockedservers/check/play.reevemc.com)
 TheSquadMC | [Check](http://use.gameapis.net/mc/extra/blockedservers/check/play.thesquadmc.net)
 ThroneCraft | [Check](http://use.gameapis.net/mc/extra/blockedservers/check/play.thronecraft.org)
+Twerion | [Check](http://use.gameapis.net/mc/extra/blockedservers/check/twerion.net)
 VindexCraft | [Check](http://use.gameapis.net/mc/extra/blockedservers/check/play.vindexcraft.com)
 Wyvern Network | [Check](http://use.gameapis.net/mc/extra/blockedservers/check/play.wyvernnetwork.com)
 YayMC | [Check](http://use.gameapis.net/mc/extra/blockedservers/check/yaymc.com,play.yaymc.com,mc.yaymc.com)
