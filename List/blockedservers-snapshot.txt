@@ -440,6 +440,7 @@ a020bddff85c3306fd29c5ebb507d74a60e45abc:romanbackwood.ddns.net
 a654b2d0d7ebbb4f50acee70bb8876f17129f440:sackboiii.hopto.org
 665142079b184704af2b8daa6d96b8174fafb6a6:salmonandys.ddns.net
 bf3a3d6496ef57396234fd2f7e5e532edcb3dd77:yungweejj.ddns.net
+0cca7333837a168595428a3b5bb721998dbf6682:*.aliacraft.net
 bd2d67d3bc51b9803262022d81c1c948806288c1:*.87qwmtvp.ignorelist.com
 0ae9546f74ba6e3e295644dc14f441d67e215d94:*.cbr6ysvu2nkm7nlnhw2ajyymfr6famxf4usmjhak.club
 d4c4241561591f0bd011ac3c322e63fb0bd2b3b3:*.cbr6ysvu2nkm7nlnhw2ajyymfr6famxf4usmjhak.xyz
@@ -685,6 +686,7 @@ d5aca972e5dad2516d16f795f940f3bd5321ebc3:yoitstessabrooks.ddns.net
 3069fe5a93790d8f87303b88b8c99230c3b94bc6:yougetpissedlikemcdonaldstoilets.ddns.net
 e8c8716c239fcc55083172edb0deb8aae3da8031:youhavelotsofworktodo.ddns.net
 95dd043bd066a4ec835e7b6705ab7a5825c4ef3c:youstillhitmyphonelastnight.ddns.net
+e48b9b5d078f1323f9f6a8caafa87ef892a28125:*.faithfulmc.com
 36cec39b6b0ecf9ac985c34fa7746cfadfcd4caa:*.omegarealm.com
 bc887dea67dd7b5ab3e240cc94a04c07ea8c0a7e:0485726485.ddns.net
 14205020c636bc83def59aeff74c1ff0d24a8dfa:1635273263.ddns.net
@@ -900,9 +902,11 @@ b13009db1e2fbe05465716f67c8d58b9c0503520:*.endercraft.com
 e25d4c3b7a214a75ce91c5acdfbcf40dc1b05fa8:
 4215059bacd102cce993a9b8ed26a0c736a9858c:*.minecraft2018.com
 d0933b248370af186441a5f0e241c77702e13ddf:
+847fc3aa70d0796c45121c93d6802ce68ec0f964:*.moncraft.net
 498a4275c88c33b7100adf896160725b138ce976:*.monman11.com
 1a1e3d92e5ac8cd215d6afa5a68a77c31df9ba90:*.nomorenightmares.info
 69ede936db8118bc8aa956e77019252bf0f7edc9:*.plexmine.info
+41475097b0c3a07182b04203de641d9f326e345c:*.thejewbox.com
 7251818e2d344586067d9608229cabb1f6412938:*.twitchstreamers.com
 a91ebb9f0ab396d62970a7db6b007f4c1d7d3ab2:*.wifetilt.com
 d486d5ad85348903a16971334772714563fa0d93:
@@ -1327,6 +1331,7 @@ c3a4d36e00a2c03f0d7b967d2c122a26be3d5b3f:shankwank.ddns.net
 28cff7f41d25996a6fa80945693fae5cd75ac8e1:
 0b8c1241bbaa546c77f61604277331257a3c4134:uberminecraftnetwork.serveirc.com
 5d2d9696e198a32b0d35d366a985d2c136a36539:*.battlecraft.eu
+18c73527a1d45a390951360a22c060503c34a467:
 ecafe92c6d27201f0acb08b7ef963ac998378d96:*.desiredcraft.net
 6eab802ba8b6a3ece1bafc652b5d4a9515865977:dcxyz.ddns.net
 e5bfc8163817462bc96606b737622945c7836951:dcxyz100.ddns.net
@@ -1436,6 +1441,7 @@ f8ac8051aeb4a88659d778e349f3ef11a578fdda:nd139d4134d141.ddns.net
 91e0962a3f713c431d3d9feecf6606458c4f5222:ui2br324r34r12i4r.ddns.net
 13cc2eb8d5de5ac3b171f5617383045c27389ba2:vd12hb2s2b3s.ddns.net
 1fb6577e614205ead0d766cf00e1fed4509e151d:z032nd34943dh34.ddns.net
+e7e354541d6607d4a151fe205a5afdb6fcb3a59c:*.brierie.net
 5af16cccdd07f7b20f70a21dad0739a6df3d51d5:*.vindexcraft.cf
 5b1cf18be7917c5052b897cef170b457b5daf29c:*.vindexcraft.net
 ba7b4f74b7d46ae46d79fc4fb18526bad6b1e9a6:
@@ -1660,6 +1666,7 @@ eaf854f8e0b902ed4968bc2eaff51c87476c850f:mcminecraft1.ddns.net
 9015eddbcf068255977c5a33396ff1541b09945b:saltymojang.ddns.net
 1e03ee6323dc58c7467d5d951136d4c1d2b46b1c:xkc3x47vuj.ddns.net
 f912307a0d86704844b447f1140300ba9be05756:*.pitforge.com
+0dd233e7fca990ad6706b0da1d3c702a42f8c645:*.nirvanamc.com
 44cf0aa40a3df93292686aec852d6b880c188405:*.opmines.net
 1087dde8f44270e7e5d021de3c1f2ee15a13f266:00ddopm.ddns.net
 b94934960915980af113a77e51b16ac2084f15e7:00ffopm.ddns.net
@@ -1694,6 +1701,7 @@ ec3b2a51ec8b5178b4dc080c677f496fe9c53180:opmines1.ddns.net
 e260e23cab6a1d2419f66e9927607782701f8644:opmines2.ddns.net
 fe6342b43c7486a026b6ac4fab83a95db5e4edfb:opmines3.ddns.net
 667e243f8e51542f65cfae572dba3d3fc74c8dc3:opmons.ddns.net
+00e6cd917e7109b3e6bf042eeb12f70dbfabf757:*.nationsglory.fr
 d736c6f26a59fc33dce5d251cf2cae266661dc1d:*.foruxpvp.com
 2746249953edd0bda543f5cd855f5eb352756bed:allahakbar012g.hosthorde.net
 a426cb01ba59c2007fce97d9d7f8c0a02c6bc644:allahakbargovb.mc-srv.com
