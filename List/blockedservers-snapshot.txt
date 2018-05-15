@@ -546,6 +546,7 @@ bada774bbc3eeedf314f5b777bbd69c4a9295242:what-happened-to-the-modding-api-you-pr
 cbd77f330c2f364a9751ea30303877dcf78c493e:xehixif31artvyb.ddns.net
 fb9e0cb588102d0e92180257f281373d78989bfc:xicm3jic69wrl4s85zewmipvg4gzfnn2v6e4v2ns1p9sk76vdah5zd65ndusq80.ignorelist.com
 0549409d39c9c09c98f71e90f8ad2cee3f408a10:xqmo8qx453.ddns.net
+825e211e712d7dd5a417839e8ee28bcdbc7a542e:*.survivaldub.com
 48e1002548ab4cccbc3538493bfd22fda8766555:*.minebrawl.net
 5487a588965f927656295a9d6c860c5260bf0b1a:*.minebrawl.org
 d7398589762af7dec016aa9a6e42b39efd30017d:*.teamextrememc.com
@@ -704,6 +705,9 @@ b52998ee0129930fcdff0a547f784f6c0e456b7a:dj90a3809wdiwa9.bounceme.net
 34daaf8e8149eaa635faaba55aec9255b650e6d2:o138485867384.ddns.net
 fea70e1c65652b8944452eeb5a2684229032e7d0:
 8aaf5fe2594ff5b50a3cdd96ceedf74e205888bf:omega00001.sytes.net
+708df0eb7e29193431bbc2124a3322a8ab8904a8:imcx8qlqiztk6exg.gtm-prox1.ddns.net
+51341e9e12367c28c7fc1be5f9df8587aa5c34ad:ksfxbcwlr1ywgyof.gtm-prox2.ddns.net
+dacfeab0c42cf69579bd655aef840ef723949208:mc-gtm.net
 6f2520f8bd70a718c568ab5274c56bdbbfc14ef4:*.minetime.com
 6f957bdcaba6cc1d5b3fadce5db088a508347017:*.mntm.com
 38900bcd81c2d49bb0dfb398b5826fadda9a7990:mt-8epbnzxlrs-1.ddns.net
@@ -723,6 +727,7 @@ f21e3598af70d2f45f37719fc51e4b4d1b829d8b:icarya9.ddns.net
 6a450b30ce600b5b7094cc51e19e3ffe9b857fe2:ns3029576.ip-149-202-223.eu
 05844460b5f3725d2f118f9a056e8e3331e7ef83:*.keralis.net
 1671d94df7609cd19123730547f2f21d7236a0e5:*.originmc.org
+c027adaa0f395452bf699f13ab45af6269da3f08:*.voidrealms.net
 32d8eaef37e81f607f20a65ae1ab461f382c2e34:*.desteria.com
 c09abafa4dccdd2f8f96e47e4fba6387a607310f:*.p2w.rocks
 f1242253c7929307223fb483aab8ab3eab0f4d66:00d9f4c12ed09f27.ddns.net
@@ -1540,6 +1545,8 @@ f9f457c7f1d38e0ec493732e974fe1fc0a71c471:ba5a299828c6c1a7.ddns.net
 a970a056d85410514d11eebc571c494a66e8c228:ee46215c9c566bd7.ddns.net
 91f0c43c19e4d97195bee74e8ebb278bdb2254d0:f36ba2a46f9989fb.ddns.net
 be62dee3d9d57ea0cec4f593590441535dab243a:fba0a6d2d17060ee.ddns.net
+4e269841865140ce38b10e455ef948927fbbea82:*.extremecraft.net
+f9626cfd990c7fee4deeb6edbe62c870939fedd1:
 5b34eb21cfd791ff54014f32a295566a8fdc0b4e:*.chaoticprison.org
 f6867cd10e48e7cf48b277a782215083a33ff7cf:abchaotic1.ddns.net
 43cb7c7d2353b0021e3116fc079fed181a01806b:abchaotic3.ddns.net
@@ -1859,6 +1866,8 @@ f558f964b32a7f982c1a9583a43ef4cb506827d0:fckeula5.ddns.net
 4baa00ae5250cc8d2635a729a15ccbbafc2e25c8:fckeula7.ddns.net
 c07039e0b281156a7f79c265afcf5f8d76f6c253:fckeula8.ddns.net
 9a3a8ae8f5bf9e9dd0d2a336cd1c4b03d4f5c7f2:fckeula9.ddns.net
+f6c305fb788eeebdc8a81ecb076cdcfef39a59fa:mcfoxcraft.com
+4ce8bfaa2eab20cad88653b8afa1de5e785bfc9c:onlinesince2011.ddns.net
 a8f1714e5a36d824df8b3ed4b38af3681cdf6a60:*.candycraft.org
 2db8cef4e1cd1dc11168ee3213e97b00b66fa65c:521kgqzouj.ddns.net
 5f2ccb88fd30c5282d2d3b0f7e9fcb0c805a44c1:64rrnoe57l.ddns.net
