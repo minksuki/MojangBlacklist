@@ -1182,6 +1182,7 @@ a9f34cede4fb1c3bb2059ce3b75ada216f273310:*.mc-maze.com
 59a22c0f965c872f6fa7477114caeb2783247cda:*.na-hg.com
 f06f56b6fabd519ea88c950836b498564282d1a3:*.woolwars.com
 285897df155ee2d16c1b2ebac3c94c7928cd71af:*.mineheroes.net
+511cbb2227238713c15bb60bda48bed4bab328ea:*.fearpvp.com
 987c989fca662d36b0ab262938b4b0c044f564d5:*.mcskyblock.com
 5c0f8d09542f98d7bfc165adf819aa704a571b16:*.phanaticmc.com
 6272abae4a9b227132af30786a51ca333018de4c:*.phanserver.ddns.net
