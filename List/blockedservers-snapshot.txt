@@ -412,6 +412,7 @@ d65cbff0afbe603ffd3eca254d31dc21338fc1f8:tpbzhws7p3.ddns.net
 55f424d7a885c79a9c508babb971a26c6a9e08df:xjv7k6ktdx.ddns.net
 e122b9c084635b4ca6336f1e1248229d5fd9a5c0:ywp584kkcd.ddns.net
 3d98bf0ca6eafc49dced534c8905efa229898f64:zfbbvu6z68.ddns.net
+33d1c0ffe21f37063492f92405fdf9bbf0091658:*.minecub.es
 eccdf20a6e1f2dfb0bb195b63d75ed5bf073b4c0:*.wyvernnetwork.com
 3f34e84fd4a8aa9bf4f4261cac388851dd4b174b:*.pvpingmc.org
 43fa7720f5a3f1d57ad5ac3eaca8eb26ce8811f2:*.brandongeta.life
@@ -1323,6 +1324,7 @@ f2cdf3b7159d65d5ea1e36b378f0b17338b15a4e:gdgjwgw4lwzu8dhaou.ddnsking.com
 bbf5018ba50d28d76ffa96b0a194cc76a33976f8:*.pvp-warcraft.eu
 1954f25858bf8cb8f392224c92f7f6f5ef59b489:149.202.87.167
 c1fa1cc53a33fe17f998053757a5b0c708dea9ed:*.mineagepvp.com
+a0bceb640c3eebcd512a894c20f696bbbbe86a9b:*.velocity-mc.com
 c4eaad67dffa478fcb8f72bf02caaf30d5f6943d:*.arcane.cc
 0895088704d654a0fc6b2ac0382b72b434e85258:*.emenbee.net
 29b53a59766f0a58ad0dd33cc7d093faddf4c60c:*.paradise-mc.net
