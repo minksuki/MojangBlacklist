@@ -11,27 +11,27 @@
 # Mojang Blacklist SRV Bypass Guides
 - [Cloudflare](https://github.com/EcoCityCraft/MojangBlacklist/blob/master/SRV-Guides/CLOUDFLARE.md)
 
-# Blocked URL Check List (100 Confirmed Servers)
+# Blocked URL Check List (101 Confirmed Servers)
 
 Server Name                             | Server Name                              | Server Name                                   | Server Name                           | Server Name                           | Server Name
 --------------------------------------- | ---------------------------------------- | --------------------------------------------- | ------------------------------------- | ------------------------------------- | ------------------------------------- 
-[Ali-ACraft][mc.aliacraft.net]          | [CraftLandia][jogar.craftlandia.com.br]  | [Icarya][play.icarya.fr]                      | [Minecub][mc.minecub.es]              | [OPCraft][opcraft.net]                | [Skyblock.xyz][skyblock.xyz]
-[Applecraft][play.applecraft.org]       | [Cyclone Network][cyclonenetwork.org]    | [ItsJerryAndHarry][itsjerryandharry.com]      | [MineHeroes][mineheroes.net]          | [OPMines][opmines.net]                | [Skyblocky][skyblocky.com]
-[ArcadianMC][play.arcadianmc.com]       | [DawnHaven][play.dawnhaven.net]          | [JartexNetwork][play.jartexnetwork.com]       | [Minesharp][play.minesharp.net]       | [OriginMC][originmc.org]              | [SkyCalypso.DE][skycalypso.de]
-[Arcane][arcane.cc]                     | [DesiredCraft][mc.desiredcraft.net]      | [Keneti][play.keneti.com]                     | [Minelink Network][play.minelink.net] | [ParadiseMC][play.paradise-mc.net]    | [Skywars][skywars.com]
-[ArkhamNetwork][arkhamnetwork.org]      | [Desteria][pvp.desteria.com]             | [World of Keralis][play.keralis.net]          | [MineRaze][play.mineraze.us]          | [PhanaticMC][phanaticmc.com]          | [SlabCraft][mc.slabcraft.net]
-[Battlecraft][battlecraft.eu]           | [EcoCityCraft][ecocitycraft.com]         | [LemonCloud][lemoncloud.org]                  | [MineSuperior][play.minesuperior.com] | [Pika-Network][play.pika-network.net] | [SurvivalDub][mc.survivaldub.com]
-[ExtremeCraft.Net][extremecraft.net]    | [Emenbee Realms][emenbee.net]            | [LuckyPrison][luckyprison.com]                | [Mineverse][mineverse.com]            | [Pitforge][pitforge.com]              | [TeamExtreme][play.teamextrememc.com]
-[Foxcraft][mcfoxcraft.com]              | [EpicPvP][epicpvp.eu]                    | [LunaMC][play.lunamc.fr]                      | [Minewind][mc.minewind.com]           | [PrimeMC][primemc.org]                | [The Reeve Network][play.reevemc.com]
-[Bedcraft][ftb.bedcraft.eu]             | [FactionsLab][play.factionslab.com]      | [ManaCube Network][play.manacube.com]         | [MomentoNetwork][momentonetwork.net]  | [Purple Prison][purpleprison.net]     | [TheSquadMC][play.thesquadmc.net]
-[Grand Theft Minecart][grandtheftmc.net]| [FadeCloud][fadecloud.com]               | [MeepCraft][meepcraft.com]                    | [monman11][monman11.com]              | [PvPingMC][play.pvpingmc.org]         | [Thronecraft][play.thronecraft.org]
-[Brierie Servers][brierie.net]          | [FaithfulMC][faithfulmc.com]             | [Mc-Wars.org Network][mc-wars.org]            | [MunchyMC][munchymc.com]              | [PvP-WarCraft][mc.pvp-warcraft.eu]    | [Twerion][twerion.net]
-[CathalCraft][mc.cathalcraft.com]       | [FearPvP][fearpvp.com]                   | [MineagePvP][play.mineagepvp.com]             | [MuxCraft][muxcraft.eu]               | [RebirthCraft][play.rebirthcraft.net] | [VelocityMC][play.velocity-mc.com]
-[CHAOTIC][chaoticprison.org]            | [ForuxPVP][play.foruxpvp.com]            | [MineAqua][mc.mineaquatm.net]                 | [Mythcraft][play.mythcraftpvp.com]    | [SaicoPVP][saicopvp.com]              | [VindexCraft][play.vindexcraft.com]
-[CraftofClans][play.craftofclans.net]   | [GroupeZK][play.groupezk.fr]             | [Minebrawl][minebrawl.org]                    | [NationsGlory][nationsglory.fr]       | [Savage Games][savage.games]          | [Wyvern Network][play.wyvernnetwork.com]
-[Cosmic Craft][play.cosmicmc.com]       | [GotPvP][gotpvp.com]                     | [Minecraft Network][minecartmc.com]           | [NirvanaMC][play.nirvanamc.com]       | [The Skyblock Hub][sb-hub.com]        | [Yay Mc][yaymc.com]
-[Cosmic Prisons][cosmicprisons.com]     | [GTAMC][play.gtamc.net]                  | [MinecraftRomania][play.minecraft-romania.ro] | [OmegaRealm][omegarealm.com]          | [Shaded][play.shaded.gg]              |
-[CosmicPvP][cosmicpvp.com]              | [GuildCraft][play.guildcraft.org]        | [Minecraft Vietnam][sv.minefc.com]            | [OPAnarchy][opanarchy.com]            | [Skyblock.net][skyblock.net]          |
+[Ali-ACraft][mc.aliacraft.net]          | [CraftLandia][jogar.craftlandia.com.br]  | [HavocMC][mc.havocmc.net]                     | [Minecraft Vietnam][sv.minefc.com]    | [OPAnarchy][opanarchy.com]            | [Skyblock.net][skyblock.net]
+[Applecraft][play.applecraft.org]       | [Cyclone Network][cyclonenetwork.org]    | [Icarya][play.icarya.fr]                      | [Minecub][mc.minecub.es]              | [OPCraft][opcraft.net]                | [Skyblock.xyz][skyblock.xyz]
+[ArcadianMC][play.arcadianmc.com]       | [DawnHaven][play.dawnhaven.net]          | [ItsJerryAndHarry][itsjerryandharry.com]      | [MineHeroes][mineheroes.net]          | [OPMines][opmines.net]                | [Skyblocky][skyblocky.com]
+[Arcane][arcane.cc]                     | [DesiredCraft][mc.desiredcraft.net]      | [JartexNetwork][play.jartexnetwork.com]       | [Minesharp][play.minesharp.net]       | [OriginMC][originmc.org]              | [SkyCalypso.DE][skycalypso.de]
+[ArkhamNetwork][arkhamnetwork.org]      | [Desteria][pvp.desteria.com]             | [Keneti][play.keneti.com]                     | [Minelink Network][play.minelink.net] | [ParadiseMC][play.paradise-mc.net]    | [Skywars][skywars.com]
+[Battlecraft][battlecraft.eu]           | [EcoCityCraft][ecocitycraft.com]         | [World of Keralis][play.keralis.net]          | [MineRaze][play.mineraze.us]          | [PhanaticMC][phanaticmc.com]          | [SlabCraft][mc.slabcraft.net]
+[ExtremeCraft.Net][extremecraft.net]    | [Emenbee Realms][emenbee.net]            | [LemonCloud][lemoncloud.org]                  | [MineSuperior][play.minesuperior.com] | [Pika-Network][play.pika-network.net] | [SurvivalDub][mc.survivaldub.com]
+[Foxcraft][mcfoxcraft.com]              | [EpicPvP][epicpvp.eu]                    | [LuckyPrison][luckyprison.com]                | [Mineverse][mineverse.com]            | [Pitforge][pitforge.com]              | [TeamExtreme][play.teamextrememc.com]
+[Bedcraft][ftb.bedcraft.eu]             | [FactionsLab][play.factionslab.com]      | [LunaMC][play.lunamc.fr]                      | [Minewind][mc.minewind.com]           | [PrimeMC][primemc.org]                | [The Reeve Network][play.reevemc.com]
+[Grand Theft Minecart][grandtheftmc.net]| [FadeCloud][fadecloud.com]               | [ManaCube Network][play.manacube.com]         | [MomentoNetwork][momentonetwork.net]  | [Purple Prison][purpleprison.net]     | [TheSquadMC][play.thesquadmc.net]
+[Brierie Servers][brierie.net]          | [FaithfulMC][faithfulmc.com]             | [MeepCraft][meepcraft.com]                    | [monman11][monman11.com]              | [PvPingMC][play.pvpingmc.org]         | [Thronecraft][play.thronecraft.org]
+[CathalCraft][mc.cathalcraft.com]       | [FearPvP][fearpvp.com]                   | [Mc-Wars.org Network][mc-wars.org]            | [MunchyMC][munchymc.com]              | [PvP-WarCraft][mc.pvp-warcraft.eu]    | [Twerion][twerion.net]
+[CHAOTIC][chaoticprison.org]            | [ForuxPVP][play.foruxpvp.com]            | [MineagePvP][play.mineagepvp.com]             | [MuxCraft][muxcraft.eu]               | [RebirthCraft][play.rebirthcraft.net] | [VelocityMC][play.velocity-mc.com]
+[CraftofClans][play.craftofclans.net]   | [GroupeZK][play.groupezk.fr]             | [MineAqua][mc.mineaquatm.net]                 | [Mythcraft][play.mythcraftpvp.com]    | [SaicoPVP][saicopvp.com]              | [VindexCraft][play.vindexcraft.com]
+[Cosmic Craft][play.cosmicmc.com]       | [GotPvP][gotpvp.com]                     | [Minebrawl][minebrawl.org]                    | [NationsGlory][nationsglory.fr]       | [Savage Games][savage.games]          | [Wyvern Network][play.wyvernnetwork.com]
+[Cosmic Prisons][cosmicprisons.com]     | [GTAMC][play.gtamc.net]                  | [Minecraft Network][minecartmc.com]           | [NirvanaMC][play.nirvanamc.com]       | [The Skyblock Hub][sb-hub.com]        | [Yay Mc][yaymc.com]
+[CosmicPvP][cosmicpvp.com]              | [GuildCraft][play.guildcraft.org]        | [MinecraftRomania][play.minecraft-romania.ro] | [OmegaRealm][omegarealm.com]          | [Shaded][play.shaded.gg]              |
 
 [mc.aliacraft.net]:          http://use.gameapis.net/mc/extra/blockedservers/check/mc.aliacraft.net
 [play.applecraft.org]:       http://use.gameapis.net/mc/extra/blockedservers/check/play.applecraft.org
@@ -67,6 +67,7 @@ Server Name                             | Server Name                           
 [gotpvp.com]:                http://use.gameapis.net/mc/extra/blockedservers/check/gotpvp.com,play.gotpvp.com
 [play.gtamc.net]:            http://use.gameapis.net/mc/extra/blockedservers/check/play.gtamc.net
 [play.guildcraft.org]:       http://use.gameapis.net/mc/extra/blockedservers/check/play.guildcraft.org
+[mc.havocmc.net]:            http://use.gameapis.net/mc/extra/blockedservers/check/mc.havocmc.net,play.havocmc.net
 [play.icarya.fr]:            http://use.gameapis.net/mc/extra/blockedservers/check/play.icarya.fr,icarya.fr
 [itsjerryandharry.com]:      http://use.gameapis.net/mc/extra/blockedservers/check/itsjerryandharry.com,play.itsjerryandharry.com,mc.itsjerryandharry.com
 [play.jartexnetwork.com]:    http://use.gameapis.net/mc/extra/blockedservers/check/play.jartexnetwork.com,mc.jartexnetwork.com,jartexnetwork.com
