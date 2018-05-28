@@ -11,7 +11,7 @@
 # Mojang Blacklist SRV Bypass Guides
 - [Cloudflare](https://github.com/EcoCityCraft/MojangBlacklist/blob/master/SRV-Guides/CLOUDFLARE.md)
 
-# Blocked URL Check List (101 Confirmed Servers)
+# Blocked URL Check List (100 Confirmed Servers)
 
 Server Name                             | Server Name                              | Server Name                                   | Server Name                           | Server Name                           | Server Name
 --------------------------------------- | ---------------------------------------- | --------------------------------------------- | ------------------------------------- | ------------------------------------- | ------------------------------------- 
@@ -28,9 +28,9 @@ Server Name                             | Server Name                           
 [Brierie Servers][brierie.net]          | [FaithfulMC][faithfulmc.com]             | [Mc-Wars.org Network][mc-wars.org]            | [MunchyMC][munchymc.com]              | [PvP-WarCraft][mc.pvp-warcraft.eu]    | [Twerion][twerion.net]
 [CathalCraft][mc.cathalcraft.com]       | [FearPvP][fearpvp.com]                   | [MineagePvP][play.mineagepvp.com]             | [MuxCraft][muxcraft.eu]               | [RebirthCraft][play.rebirthcraft.net] | [VelocityMC][play.velocity-mc.com]
 [CHAOTIC][chaoticprison.org]            | [ForuxPVP][play.foruxpvp.com]            | [MineAqua][mc.mineaquatm.net]                 | [Mythcraft][play.mythcraftpvp.com]    | [SaicoPVP][saicopvp.com]              | [VindexCraft][play.vindexcraft.com]
-[CraftofClans][play.craftofclans.net]   | [GroupeZK][play.groupezk.fr]             | [Minebrawl][minebrawl.org]                    | [NationsGlory][nationsglory.fr]       | [Savage Games][savage.games]          | [VoidRealms][voidrealms.net]
-[Cosmic Craft][play.cosmicmc.com]       | [GotPvP][gotpvp.com]                     | [Minecraft Network][minecartmc.com]           | [NirvanaMC][play.nirvanamc.com]       | [The Skyblock Hub][sb-hub.com]        | [Wyvern Network][play.wyvernnetwork.com]
-[Cosmic Prisons][cosmicprisons.com]     | [GTAMC][play.gtamc.net]                  | [MinecraftRomania][play.minecraft-romania.ro] | [OmegaRealm][omegarealm.com]          | [Shaded][play.shaded.gg]              | [Yay Mc][yaymc.com]
+[CraftofClans][play.craftofclans.net]   | [GroupeZK][play.groupezk.fr]             | [Minebrawl][minebrawl.org]                    | [NationsGlory][nationsglory.fr]       | [Savage Games][savage.games]          | [Wyvern Network][play.wyvernnetwork.com]
+[Cosmic Craft][play.cosmicmc.com]       | [GotPvP][gotpvp.com]                     | [Minecraft Network][minecartmc.com]           | [NirvanaMC][play.nirvanamc.com]       | [The Skyblock Hub][sb-hub.com]        | [Yay Mc][yaymc.com]
+[Cosmic Prisons][cosmicprisons.com]     | [GTAMC][play.gtamc.net]                  | [MinecraftRomania][play.minecraft-romania.ro] | [OmegaRealm][omegarealm.com]          | [Shaded][play.shaded.gg]              |
 [CosmicPvP][cosmicpvp.com]              | [GuildCraft][play.guildcraft.org]        | [Minecraft Vietnam][sv.minefc.com]            | [OPAnarchy][opanarchy.com]            | [Skyblock.net][skyblock.net]          |
 
 [mc.aliacraft.net]:          http://use.gameapis.net/mc/extra/blockedservers/check/mc.aliacraft.net
@@ -131,6 +131,5 @@ Server Name                             | Server Name                           
 [twerion.net]:               http://use.gameapis.net/mc/extra/blockedservers/check/twerion.net
 [play.velocity-mc.com]:      http://use.gameapis.net/mc/extra/blockedservers/check/play.velocity-mc.com
 [play.vindexcraft.com]:      http://use.gameapis.net/mc/extra/blockedservers/check/play.vindexcraft.com
-[voidrealms.net]:            http://use.gameapis.net/mc/extra/blockedservers/check/play.voidrealms.net,mc.voidrealms.net
 [play.wyvernnetwork.com]:    http://use.gameapis.net/mc/extra/blockedservers/check/play.wyvernnetwork.com
 [yaymc.com]:                 http://use.gameapis.net/mc/extra/blockedservers/check/yaymc.com,play.yaymc.com,mc.yaymc.com
