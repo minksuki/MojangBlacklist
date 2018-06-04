@@ -623,6 +623,7 @@ b8159a5ee893e241bfccb64ea502e7589828f6bb:*.keneti.com
 93bfca51ea31620fdc93b6f50593057d452a9686:1mzijnr9ib.ddns.net
 e22b9aef191b379f267dfee1ab5aeddb167cd6ac:42qwsrz2pg.ddns.net
 62c566a497afdc67174a851bd1e11f178fe0d0da:9ichs8f122.ddns.net
+6b8812cf930543579fd88714e182e566dd6506ce:*.playminecraftworld.nl
 21083038c46391238432aaf3761b19af4c4a0715:*.cosmicmc.com
 824cb827ba7cf74222f1d546aadfe0ba1e63c14f:*.360spinning.com
 44d2a11e73b9943add4d9acc5f043ba499edd1d8:*.mojangbrandonhatkeinleben.party
@@ -1812,6 +1813,7 @@ e103d60722b5eebb525f99f20bcd2eae27e7324d:*.prisonlucky.club
 4a1670ec0ae203f984cbf2e2a9ad0088e8e0120d:*.recurringbilling7.info
 476076bc87163201da7fa8ede199f551d81fe18a:*.thugcrewmojang.club
 1a5f060274ffda57f6345480a14b41302e5ed16c:*.thugscrib.com
+516332594330c66cb5cadfd4c3c3acc9cdea0bbd:*.veltpvp.com
 47c04d048804712751f87d100711a5187d858872:*.saicopvp.com
 408e2f63273360805b972422faffb67b2fb35d48:33ksgz17hnugw7d.ddns.net
 24ae219a22bdb9b0d521744e53c97174917a14c4:d3qwf662849t73c.ddns.net
@@ -1872,6 +1874,8 @@ c07039e0b281156a7f79c265afcf5f8d76f6c253:fckeula8.ddns.net
 9a3a8ae8f5bf9e9dd0d2a336cd1c4b03d4f5c7f2:fckeula9.ddns.net
 f6c305fb788eeebdc8a81ecb076cdcfef39a59fa:mcfoxcraft.com
 4ce8bfaa2eab20cad88653b8afa1de5e785bfc9c:onlinesince2011.ddns.net
+d0915ebbb7b99079c1e1e422aacfaa7c231169a3:*.differentcraft.net
+0d5234bfd3c861ffbd0133dad5ae57984d205df1:t8pg8d0ps6vzm9rl05koh9u8yd9235gm3b81.free-ddns.win
 a8f1714e5a36d824df8b3ed4b38af3681cdf6a60:*.candycraft.org
 2db8cef4e1cd1dc11168ee3213e97b00b66fa65c:521kgqzouj.ddns.net
 5f2ccb88fd30c5282d2d3b0f7e9fcb0c805a44c1:64rrnoe57l.ddns.net
@@ -1973,6 +1977,8 @@ b7a8206b3566ad8c13d05e6691cd42af2f1503b4:xabmvoehhfbegmvpiir.ddns.net
 08235b48e46c7147d4c3a9f4f81c67cda54640e2:xiybtrvzsiampkgfmuy.ddns.net
 877599d8af519e3556940319fc011e7e9c0dc149:zdukfdaxurjpsaofwkf.ddns.net
 73dfa39737a3ee491a506f722d0b768f945e2824:*.craftlandia.com.br
+486c5862a98d6b47c952dde7c11029e3abd9743b:*.golicraft.no
+76747541ae146c84328a5e9ab0d118be97bd8a62:begwnk.myftp.biz
 05fe3d8f16b7427f8b2533722d78e774f63ee875:
 e4c7f5153c9b241dc9b6061611c601502752942c:*.savage.games
 504dbfe6925500e6fe0d534b10e603642df8e799:*.skybounds.com
@@ -2120,4 +2126,6 @@ e4f29cde50787dff21474f6cd1492fc357ea8797:fb884af9c52e495f.ddns.net
 1ba19318fc696461b027e5c6537f8cfb5aff8dff:febb540d136fbf16.ddns.net
 e16f4855fae779836dc0971fd09c7a87130fd32d:*.thronecraft.org
 f56238355bf8aa9f00b53bdc0989cc5f9aab0884:*.minecraft-romania.ro
+fab898fb32a1b3eeee6767cde84b92c78125ceaa:
 b72ef96961fd1cb52a4d98b790a82ef27f12f4e3:*.bedcraft.eu
+2c62c41e94dadb6f4385be154552eab1e221217b:*.pixelspark.org
