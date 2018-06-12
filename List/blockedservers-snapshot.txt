@@ -5,6 +5,7 @@ d1bab7fcb1d44a0ad1084fb201006d79d05ae6e7:eulafc02.hopto.org
 1822a17662c7e0cf3b815c257d32c2aa0245fad0:eulafc03.hopto.org
 7905e1eeee5d57268bb9cbea2e0acbb5421a667b:fc19001001.hopto.org
 56c7a4ccff309d6eb3c5737fe9509c3555e7f5fa:minefc.18hdo.com
+cf2f874a649da0118f717f7edb1f5fffcbae8c6b:*.pigparty.eu
 a6baf7d3ddfeae0ecb6c82f72771ab13f214ee5b:*.minecartmc.com
 17ca13f0120441568b8b492bd8ed637c05a5e394:*.theminecart.com
 085eb6b3698fca114061d5dc45ea47562fa77fdc:*.fadedsb.com
@@ -134,6 +135,8 @@ c81574240c5616ade8af38b743c59f41fda950bd:tsh8.ddns.net
 d7aaeee640a82d97b182d237c46e6fe4c6d55fe3:*.groupezk.fr
 474a6f28264a418ad0e8839005ca4cc0faefff45:*.mineraze.us
 4a5069d1235ee4af78922d62bd917428e163d6e5:minerazedns1.ddns.net
+bdca69fbf79b5bfad72240f90920b05f8c7f6bc8:*.imperialmc.net
+f505acdb574a44b601cb38b69129c445c5d6fab6:*.pvp.sc
 39f4bbfd123a5a5ddbf97489877831c15a70d7f2:*.primemc.org
 f8c4ac5a881c9ca276c2069084b1a9dfd784146f:047076ff9e808fec.ddns.net
 67bf2a3b869ab012416162c65f7c8ba93f6ff03b:04ca0bc4cf3a7645.ddns.net
@@ -618,13 +621,18 @@ dc3b35ea9004ef1e0c01e33c77b2c7597bb0dd43:*.vibez.host
 b216cb229d67e5462b559cf24912e2c6cba3dd07:*.vibez.space
 9d6ffa5c28a4c5397dece9e644a436cbd33c4330:*.vibez.top
 f728c2892b407ad03feb3672f77ecf2963d89562:*.vibez.website
+6ae25753de55cffc67d91dd7e0c2c5a850556290:*.treasurewars.net
+35e3a8d7dc181faab023cc274e6945ac3921bd65:treasurewars.proxy.n.compilex.com
 b8159a5ee893e241bfccb64ea502e7589828f6bb:*.keneti.com
 7513f34d3feb1f7816bd7946456c4b83f0f78319:*.opcraft.net
 93bfca51ea31620fdc93b6f50593057d452a9686:1mzijnr9ib.ddns.net
 e22b9aef191b379f267dfee1ab5aeddb167cd6ac:42qwsrz2pg.ddns.net
 62c566a497afdc67174a851bd1e11f178fe0d0da:9ichs8f122.ddns.net
+c5f3b494949138c3e514ed06f89dfabcb5a0ba25:*.centrixpvp.eu
+e55a25f2b5a429df2077bc2fab8174c0a51e53b9:*.skybattle.net
 6b8812cf930543579fd88714e182e566dd6506ce:*.playminecraftworld.nl
 21083038c46391238432aaf3761b19af4c4a0715:*.cosmicmc.com
+0d43ecb1dc347853408aed6660f472628c0334c5:*.skyminigames.com
 824cb827ba7cf74222f1d546aadfe0ba1e63c14f:*.360spinning.com
 44d2a11e73b9943add4d9acc5f043ba499edd1d8:*.mojangbrandonhatkeinleben.party
 67cc9d3293177fcf1f631537d9a965eb340b5d68:*.mojangnacktaufder.webcam
@@ -707,6 +715,7 @@ b52998ee0129930fcdff0a547f784f6c0e456b7a:dj90a3809wdiwa9.bounceme.net
 34daaf8e8149eaa635faaba55aec9255b650e6d2:o138485867384.ddns.net
 fea70e1c65652b8944452eeb5a2684229032e7d0:
 8aaf5fe2594ff5b50a3cdd96ceedf74e205888bf:omega00001.sytes.net
+c7ed741633fdc0a1e10ec696610a2e8264e77ba0:*.skymetro.net
 708df0eb7e29193431bbc2124a3322a8ab8904a8:imcx8qlqiztk6exg.gtm-prox1.ddns.net
 51341e9e12367c28c7fc1be5f9df8587aa5c34ad:ksfxbcwlr1ywgyof.gtm-prox2.ddns.net
 dacfeab0c42cf69579bd655aef840ef723949208:mc-gtm.net
@@ -1486,6 +1495,7 @@ bc26dddd75c4dcb4a86defd5ec6fa77354608475:sbxyzdontban09.ddns.net
 89e7e28143099b9599f5107a997c3a8d4df19675:wearedemkeksb.ddns.net
 068ce25eef582c6e934c8afc202172119da8caff:
 fa4a87f1063ed8d00b43fac22a703bcd9d11bc66:youstink.ddns.net
+b4fd4ccc6fff6ea55b6106287062bda7fd795a42:*.opblocks.com
 75df09492c6c979e2db41116100093bb791b8433:*.timelesspvp.net
 d4a7a97ed9a105ac40a3dc64b6b7d93a54ff14d8:*.lemoncloud.org
 ae1df84a09a23f11cab28b2e8c2aaa3c3d2181b0:00e8f7d60346d4cf.ddns.net
@@ -1816,6 +1826,7 @@ e103d60722b5eebb525f99f20bcd2eae27e7324d:*.prisonlucky.club
 516332594330c66cb5cadfd4c3c3acc9cdea0bbd:*.veltpvp.com
 ee53c6309359cc7a9c7d007d3ef6f2ad2a2df645:*.u-mc.co
 ddd2525bc393a4a24a030e825cfc03f240bfc436:*.unionmc.net
+0d4dadf9d57c7b626b71bbe5ab60d8116f7d01db:*.clubobsidian.com
 47c04d048804712751f87d100711a5187d858872:*.saicopvp.com
 408e2f63273360805b972422faffb67b2fb35d48:33ksgz17hnugw7d.ddns.net
 24ae219a22bdb9b0d521744e53c97174917a14c4:d3qwf662849t73c.ddns.net
@@ -1898,6 +1909,7 @@ bae22ff45e16378ea5f989f17e05d064233d2fc2:pedxwgkcig.ddns.net
 d4f706dbf3ee377a0f0512b48cfaafa76d4bde04:t442biuv4w.ddns.net
 cbd77f330c2f364a9751ea30303877dcf78c493e:xehixif31artvyb.ddns.net
 5b932e1dfbb410c9e533bdee37acdf001d8d7bff:y28l2qemwj.ddns.net
+05e7e9bb216a5aff80677a166512231292963111:*.dreamraids.com
 e1306011e59fb3198df1042e71fd46adf48596d1:*.h1horizonmc.fr
 7e0ebb720fcf5f6c6c2f04f7422d621b6c8e4d94:*.horizonmc.fr
 227d18c2d31450ced40234b04a24820e1c880aa2:*.invasionz.fr
@@ -1961,6 +1973,7 @@ eb02bc77dc04599f284189bf6d8a9af57f019733:txlnssaw.ddns.net
 d91ca64873b6bbc5ba7068be7211527cb63feb17:0puikwwzs9g39fk.ddns.net
 74501dbd841438b2615756737229d0001777ec6c:*.jartexnetwork.com
 4038cc9562ad5459bc9a816847641dd37f777c7f:*.jartexrenegod.party
+2a7ad6f7b5f68d55550b3ffe11c59eeec17f1a2f:*.dwominecraft.com
 179dd56caebc51d78aab3eef786acc19262250af:*.applecraft.org
 aad62449215ceb6a3baacbfa75c9b4619b2cc371:amiuyzchzdnpmvxpdmx.ddns.net
 d4d52cc46c6b25e868fd9a6d6a932aba751f71b4:bajacantina.ddns.net
