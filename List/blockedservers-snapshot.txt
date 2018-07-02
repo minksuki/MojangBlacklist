@@ -389,6 +389,7 @@ e13243c88ac11681f3523235914153708326867b:spyfmdge.ddns.net
 18d97388786ddacad99cdee6af0e696f6baeb750:t0sa101c.ddns.net
 8235a59f93865d4e09d5ed9d3971ea970acea22d:tfnkhlhf.ddns.net
 eb714fe72ccdfc4b6dd554f119dc4cdf705a5181:wc4qfg69.ddns.net
+471f1b6b02f2e022da05eae350e017dbaf5765ff:*.edawg878.com
 307c4172ba1eb029e1187f747b67f9512a39dccd:*.minesuperior.com
 34034cdebc8f5d3d64d08ddcbe7be928a93def93:25xguzqxv7.ddns.net
 3aeaeeec10a90846f4f16250b2a11445ead7fa36:2z2wvgrcwx.ddns.net
@@ -621,6 +622,9 @@ dc3b35ea9004ef1e0c01e33c77b2c7597bb0dd43:*.vibez.host
 b216cb229d67e5462b559cf24912e2c6cba3dd07:*.vibez.space
 9d6ffa5c28a4c5397dece9e644a436cbd33c4330:*.vibez.top
 f728c2892b407ad03feb3672f77ecf2963d89562:*.vibez.website
+e7210344ab0a2206da3bb21d03e406c0f1365981:*.redesky.com
+fb57f240295a4483196a744bc29b552ca7add5c8:redesky-minigames-1.ddns.net
+d3b62ae7d50c1550dfca61dadb0116e172d6534f:redesky-survival-1.ddns.net
 6ae25753de55cffc67d91dd7e0c2c5a850556290:*.treasurewars.net
 35e3a8d7dc181faab023cc274e6945ac3921bd65:treasurewars.proxy.n.compilex.com
 b8159a5ee893e241bfccb64ea502e7589828f6bb:*.keneti.com
@@ -1973,7 +1977,6 @@ eb02bc77dc04599f284189bf6d8a9af57f019733:txlnssaw.ddns.net
 d91ca64873b6bbc5ba7068be7211527cb63feb17:0puikwwzs9g39fk.ddns.net
 74501dbd841438b2615756737229d0001777ec6c:*.jartexnetwork.com
 4038cc9562ad5459bc9a816847641dd37f777c7f:*.jartexrenegod.party
-2a7ad6f7b5f68d55550b3ffe11c59eeec17f1a2f:*.dwominecraft.com
 179dd56caebc51d78aab3eef786acc19262250af:*.applecraft.org
 aad62449215ceb6a3baacbfa75c9b4619b2cc371:amiuyzchzdnpmvxpdmx.ddns.net
 d4d52cc46c6b25e868fd9a6d6a932aba751f71b4:bajacantina.ddns.net
@@ -2055,6 +2058,8 @@ eed41a1fd78e25359d45039979c1de2a6d8658b8:*.slabcraft.net
 75d93020dbad9c7e44a3ed5ad14f0fef125efa33:*.minewind.com
 8eb99426102669f9d31d0e15172091fdf91006fe:teqygu6gkh.ddns.net
 bb305fc63bec160f41bbfd449adf3808c8b3f76d:*.rebirthcraft.net
+8728e93fdb1ddc884559451905031aadb779895c:*.oversizenetwork.com
+9fee94acd1df7481f2a333116f93b4494ba077d2:os170216.ddns.net
 19390d1f8d633f13e22f0ab062bb08962a4bd778:
 67f917e2be48d5ed7c16cce9e98a4603c2243f38:*.mineverse.xyz
 c321b9d0f0e82aee3b8c5dd2ab78c449a8f0a279:*.mveula.club
