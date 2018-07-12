@@ -369,6 +369,7 @@ c1a6fdefa057322bef37f98fa7943d6f90e97f25:*.thesquadmc.net
 0a300925a4465e9abe01cf37a186931d63cb02d8:uypdwkynrzv4x387.ddns.net
 7797f5bbf28c3bd96a8998eea049e0d0f34c4a28:*.cyclonenetwork.org
 dde2f19a11a1da6820c954c240fcea36f6379ea6:*.skycalypso.de
+d54db115d781524c35508c1bbbea9fef38a05cd8:*.sarmacraft.info
 f05ff11b25bbdb642081950711f19cd82354a02c:*.minevast.com
 a972e7e1d31af2e3b717b9fc4aa8761c54b3b723:0akdhgoq.ddns.net
 f3d914ddac14acdf2932a84de714277f4af7f6fa:0go4381t.ddns.net
@@ -389,7 +390,6 @@ e13243c88ac11681f3523235914153708326867b:spyfmdge.ddns.net
 18d97388786ddacad99cdee6af0e696f6baeb750:t0sa101c.ddns.net
 8235a59f93865d4e09d5ed9d3971ea970acea22d:tfnkhlhf.ddns.net
 eb714fe72ccdfc4b6dd554f119dc4cdf705a5181:wc4qfg69.ddns.net
-471f1b6b02f2e022da05eae350e017dbaf5765ff:*.edawg878.com
 307c4172ba1eb029e1187f747b67f9512a39dccd:*.minesuperior.com
 34034cdebc8f5d3d64d08ddcbe7be928a93def93:25xguzqxv7.ddns.net
 3aeaeeec10a90846f4f16250b2a11445ead7fa36:2z2wvgrcwx.ddns.net
