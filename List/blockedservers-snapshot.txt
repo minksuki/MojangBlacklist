@@ -1356,7 +1356,7 @@ c3a4d36e00a2c03f0d7b967d2c122a26be3d5b3f:shankwank.ddns.net
 28cff7f41d25996a6fa80945693fae5cd75ac8e1:
 0b8c1241bbaa546c77f61604277331257a3c4134:uberminecraftnetwork.serveirc.com
 5d2d9696e198a32b0d35d366a985d2c136a36539:*.battlecraft.eu
-18c73527a1d45a390951360a22c060503c34a467:
+18c73527a1d45a390951360a22c060503c34a467:*.hardfight.fr
 ecafe92c6d27201f0acb08b7ef963ac998378d96:*.desiredcraft.net
 6eab802ba8b6a3ece1bafc652b5d4a9515865977:dcxyz.ddns.net
 e5bfc8163817462bc96606b737622945c7836951:dcxyz100.ddns.net
@@ -1944,6 +1944,7 @@ c9e5d958a594c2fb122956b105e680189d7bb5fa:h9mc.ddns.net
 bb83aeeac53cf42a16efaa89766be48aa3e6654c:lunamc-bypass-mojang1.securitytactics.com
 31f5465956f77156d8d1953a5e94c4af2e291943:
 4e6f10d22f759cdfd5110f023748415ece9f6233:
+738497d1ef692b6ae6b313ab4b1c5a3afb557f4b:*.vortexpvp.com
 3e560742576af9413fca72e70f75d7ddc9416020:*.insanefactions.org
 e3985eb936d66c9b07aa72c15358f92965b1194e:*.insanenetwork.org
 b140bec2347bfbe6dcae44aa876b9ba5fe66505b:*.phoenixnexus.net
@@ -1981,6 +1982,7 @@ d91ca64873b6bbc5ba7068be7211527cb63feb17:0puikwwzs9g39fk.ddns.net
 aad62449215ceb6a3baacbfa75c9b4619b2cc371:amiuyzchzdnpmvxpdmx.ddns.net
 d4d52cc46c6b25e868fd9a6d6a932aba751f71b4:bajacantina.ddns.net
 c4268b57353efb6b3e324572e9d9c63b0f953d55:bdzpzzhfgwbxzmxrvuv.ddns.net
+bd0b44257ae5257061f98bfb70da351927f116dc:cyeksuvbopgwqvefpll.ddns.net
 f674891e4212b0148492822639ed7867fd136d20:erplecrerft.ddns.net
 1d24a48fe03f8ed9a89d72dbc0636878c4698ebf:ijgggprgagzertvmwkr.ddns.net
 73b75ff93fdef0fe6941ce45f6c915092c1ff19c:iwmtwyoxyvnlfikubkv.ddns.net
@@ -2057,6 +2059,7 @@ ebee18fe915f43c837288bc975bec93da3479bac:*.dawnhaven.net
 eed41a1fd78e25359d45039979c1de2a6d8658b8:*.slabcraft.net
 75d93020dbad9c7e44a3ed5ad14f0fef125efa33:*.minewind.com
 8eb99426102669f9d31d0e15172091fdf91006fe:teqygu6gkh.ddns.net
+f93b7f0c335c76e994d4702ea320169760ba6a5f:*.mc-central.net
 bb305fc63bec160f41bbfd449adf3808c8b3f76d:*.rebirthcraft.net
 8728e93fdb1ddc884559451905031aadb779895c:*.oversizenetwork.com
 9fee94acd1df7481f2a333116f93b4494ba077d2:os170216.ddns.net

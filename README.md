@@ -11,5 +11,5 @@
 # Mojang Blacklist SRV Bypass Guides
 - [Cloudflare](https://github.com/EcoCityCraft/MojangBlacklist/blob/master/SRV-Guides/CLOUDFLARE.md)
 
-# Blocked IP/Domain Checker (117 Confirmed Servers)
+# Blocked IP/Domain Checker
 https://ui.gameapis.net/mc/extra/blockedservers
