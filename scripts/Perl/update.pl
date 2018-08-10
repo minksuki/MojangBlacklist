@@ -15,8 +15,10 @@ my $jsonFile; {
 }
 my $jsonFileDecode = decode_json($jsonFile);
 my $ua = LWP::UserAgent->new( cookie_jar => {}, agent => 'Opera/9.80 (X11; Linux i686; U; Edition Next; nl) Presto/2.10.289 Version/12.01' );
-foreach my $a (@{ $jsonFileDecode->{servers} }) {
-    my $req = new HTTP::Request GET => 'https://use.gameapis.net/mc/extra/blockedservers/check/'.$a;
+my @domains;
+push @domains, [ splice @{ $jsonFileDecode->{servers} }, 0, 8 ] while @{ $jsonFileDecode->{servers} };
+for my $row (@domains) {
+    my $req = new HTTP::Request GET => 'https://use.gameapis.net/mc/extra/blockedservers/check/'.join(",", @{$row});
     my $res = $ua->request($req);
     my $content = $res->content;
     print $content."\n";
